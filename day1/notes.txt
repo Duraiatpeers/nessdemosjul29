@@ -1,0 +1,40 @@
+Procedural
+    - Writing procedures and using it
+Object Oriented Programming
+    - representing real world objects as classes/objects
+Functional Programming
+    - Passing functions as arguments to functions
+
+Object Oriented programming:
+   - Class
+        - Blueprint / template of an object
+        - Data members and functions
+
+   - Objects
+        - instances of the class
+
+   - Encapsulation
+         - Data hiding
+             - public, protected, private
+
+   - Inheritance
+         - Inheriting the attributes and functions from another class
+         - Parent --> Child class
+         - Single & Multiple inheritance
+         - Is a relationship (Chrome is a browser)
+         - Tightly coupled relationship
+
+         - Has a relationship (Vehicle has a engine)
+
+   - Polymorphism
+         - Different forms at run time
+
+   - Abstraction
+         - Implementation hiding
+
+   Convention than enforcement
+
+
+
+
+

@@ -135,11 +135,11 @@ def dec(*args):
 
     def inner(func):
         print(args[0])
-
+        return func
     return inner
 
 @dec('ness demos')
 def demo_fn():
-    print('inside demo_fn')
+    return 0
 
 demo_fn()

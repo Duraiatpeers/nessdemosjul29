@@ -140,6 +140,6 @@ def dec(*args):
 
 @dec('ness demos')
 def demo_fn():
-    return 0
+    print('inside demo fn')
 
 demo_fn()

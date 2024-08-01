@@ -1,0 +1,15 @@
+[
+  {
+    "empid":"e001",
+    "empname":"sam",
+    "designation":"manager",
+    "location":"hyderabad",
+    "salary": 90000
+  },{
+    "empid":"e002",
+    "empname":"Chris",
+    "designation":"manager",
+    "location":"Auckland",
+    "salary": 89999
+  }
+]

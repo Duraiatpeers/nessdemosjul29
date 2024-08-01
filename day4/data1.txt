@@ -1,0 +1,4 @@
+Welcome to Python programming
+Python supports functional programming
+Python is used in Automation, AI/ML
+Python is used in Automation, AI/ML
